@@ -1,1 +1,1 @@
-# jungelproject2
+# project-template-kangaroo-2
